@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm [Veni Madhav]
 
-<!--
-**Vmadhav7/Vmadhav7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Data Scientist | AI & Machine Learning Enthusiast**
 
-Here are some ideas to get you started:
+I’m passionate about working with data, building intelligent systems, and exploring how AI can solve real-world problems. I enjoy turning raw data into insights, models, and impactful solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 What I’m Interested In
+- Data Science & Analytics  
+- Machine Learning & Deep Learning  
+- Artificial Intelligence  
+- Statistical Modeling  
+- Data Visualization  
+- Applied AI Projects  
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Python, SQL, HTML/CSS  
+- **Libraries & Frameworks:** NumPy, Pandas, Scikit-learn, TensorFlow / PyTorch, Keras 
+- **Visualization:** Matplotlib, Seaborn  
+
+---
+
+## 📌 What You’ll Find Here
+- Data science experiments and notebooks  
+- Machine learning & AI projects  
+- Practice problems and learning notes  
+- Explorations of datasets and models  
+
+---
+
+## 🌱 Currently Learning
+- Advanced machine learning techniques  
+- Deep learning & neural networks  
+- Model optimization and deployment  
+
+---
+
+⭐ *Feel free to explore my repositories and drop a star if you find something useful!*
