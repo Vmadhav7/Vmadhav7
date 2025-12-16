@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Veni Madhav]
+# 👋 Hi, I'm Veni Madhav
 
 🚀 **Data Scientist | AI & Machine Learning Enthusiast**
 
